@@ -36,6 +36,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any further questions or inquiries, please reach out to us at [your-email@example.com](mailto:adefokunadeoluwaisrael@gmail.com).
+For any further questions or inquiries, please reach out to us at [adefokunadeoluwaisrael@gmail.com](mailto:adefokunadeoluwaisrael@gmail.com).
 
 Enjoy exploring the world of Nigerian entertainment with Naijamata Entertainment Blog!
